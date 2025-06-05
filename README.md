@@ -1,0 +1,2 @@
+# dynamicpricingazure
+This is for 
